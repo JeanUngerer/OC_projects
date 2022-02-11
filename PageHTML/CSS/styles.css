@@ -1,0 +1,32 @@
+body {
+    color: black; /* change la couleur */
+    opacity: 1; /* change l'opacité. Ici 10% */
+    background-color: white; /* change la couleur de fond */
+    font-family: Arial;/* change la police utilisée */
+    text-align: left-side; /* change l'allignement */
+    font-size: 16px; /* change la taille de la police */
+    border: 1px solid pink; /* ajoute une bordure */
+
+}
+
+header {
+    color: white; /* change la couleur */
+    opacity: 1; /* change l'opacité. Ici 10% */
+    background-color: rgb(48,16,107); /* change la couleur de fond */
+    font-family: Arial;/* change la police utilisée */
+    text-align: left-side; /* change l'allignement */
+    font-size: 16px; /* change la taille de la police */
+
+}
+
+
+
+.section_one {
+    color: white; /* change la couleur */
+    opacity: 1; /* change l'opacité. Ici 10% */
+    background-color: rgb(48,16,107); /* change la couleur de fond */
+    font-family: Arial;/* change la police utilisée */
+    text-align: left-side; /* change l'allignement */
+    font-size: 16px; /* change la taille de la police */
+
+}
